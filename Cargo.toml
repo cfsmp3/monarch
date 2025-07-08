@@ -15,6 +15,3 @@ members = [
     "nccl-sys",
     "torch-sys",
 ]
-
-[profile.release]
-incremental = true
